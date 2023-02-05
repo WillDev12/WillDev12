@@ -1,18 +1,13 @@
 <p align="center">
-  <a href="https://github.com/WillDev12">
-    <img src="https://github.com/WillDev12/WillDev12/blob/main/WillDevvLogo.png" width="200" height="200">
+  <h1 align="center">WillDev12</h1>
 </p>
+
+<p align="center">Hey, what's up.  If you are here, you probably are checking me out from one of my repositories.  If you would like, please hit the follow button to gain notifications about when I post new AWESOME content! :DD</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/WillDev12?logo=github&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/WillDev12?affiliations=OWNER&logo=git&style=for-the-badge">
 </p>
-
-<p align="center">
-  <h1 align="center">WillDev12</h1>
-</p>
-
-<p align="center">Hey, what's up.  If you are here, you probably are checking me out from one of my repositories.  If you would like, please hit the follow button to gain notifications about when I post new AWESOME content! :DD</p>
 
 <br>
 
