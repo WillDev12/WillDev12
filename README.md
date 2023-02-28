@@ -39,7 +39,7 @@
 
 | Short-term  | Status       | Additional     |  
 | :---        |    :----:   |   :----:        |
-| CremeCSS    | Creating repo | none          |
+| Brainstorming    |  |  |
   
 </div>
 
