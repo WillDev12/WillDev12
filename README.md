@@ -53,5 +53,10 @@
 </div>
 
 [![WillDev12's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WillDev12&show_icons=true&theme=dracula)](https://github.com/WillDev12)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillDev12&theme=dracula)](https://github.com/WillDev12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillDev12&theme=dracula)
 
+![WillDev12's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WillDev12&theme=tokyo-night&radius=14)
+
+| My languages |
+| :----: |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,dotnet,github,codepen,gcp,visualstudio)](https://skillicons.dev)|
