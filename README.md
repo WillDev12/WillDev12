@@ -51,3 +51,7 @@
 | FormEngine    | Building mainframe | Don't expect this one soon   |
   
 </div>
+
+[![WillDev12's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WillDev12&show_icons=true&theme=dracula)](https://github.com/WillDev12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillDev12&theme=dracula)](https://github.com/WillDev12)
+
