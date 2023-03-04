@@ -10,7 +10,8 @@
 
   <a href="https://github.com/WillDev12">
     <img src="https://img.shields.io/github/followers/WillDev12?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/WillDev12?style=for-the-badge">
+  <a href="https://github.com/WillDev12">
+    <img src="https://img.shields.io/github/stars/WillDev12?style=for-the-badge">
   <a href="https://github.com/WillDev12/WillDev12">
     <img src="https://img.shields.io/github/watchers/WillDev12/WillDev12?style=for-the-badge">
 
