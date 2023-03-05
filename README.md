@@ -43,5 +43,4 @@
 
 </div>
 
-
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
