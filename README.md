@@ -21,9 +21,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=WillDev12&theme=tokyonight">
   <br>
   <img src="https://streak-stats.demolab.com/?user=WillDev12&theme=dark" width="700"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=WillDev12&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillDev12&theme=tokyonight" width="285">
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WillDev12&theme=tokyonight" width="900">
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WillDev12&theme=tokyo-night">
