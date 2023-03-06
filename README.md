@@ -40,7 +40,7 @@
 
 | Term | Working on |
 | :--- | :---: |
-| Short | GalaxINI |
+| Short | StarINI |
 | Long | FormEngine |
 
 </div>
