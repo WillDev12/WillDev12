@@ -9,11 +9,11 @@
 <p float="left" align="center">
 
   <a href="https://github.com/WillDev12">
-    <img src="https://img.shields.io/github/followers/WillDev12?style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/WillDev12?style=for-the-badge&logo=github">
   <a href="https://github.com/WillDev12">
-    <img src="https://img.shields.io/github/stars/WillDev12?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/WillDev12?style=for-the-badge&logo=git">
   <a href="https://github.com/WillDev12/WillDev12">
-    <img src="https://img.shields.io/github/watchers/WillDev12/WillDev12?style=for-the-badge">
+    <img src="https://img.shields.io/github/watchers/WillDev12/WillDev12?style=for-the-badge&logo=git">
 
 </p>
 
@@ -40,7 +40,7 @@
 
 | Term | Working on |
 | :--- | :---: |
-| Short | StarINI |
+| Short | GalaxINI |
 | Long | FormEngine |
 
 </div>
