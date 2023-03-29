@@ -1,7 +1,5 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
 
-<h3 align="center">Markdown Builder is out now! Check it out <a href="https://WillDev12.github.io/Markdown-Builder">here</h3><br>
-
 <h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
 <h4 align="center">Due to the creating of two long term projects and one collab, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
   
