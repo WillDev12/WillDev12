@@ -1,9 +1,10 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
-<p align="center">
-<img src="https://t4.ftcdn.net/jpg/02/01/81/29/360_F_201812901_RTFlTpQP2DYMuTcsfjmP0yIWMrwsKY1c.jpg"></p><br>
 
 <h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
-<h4 align="center">Due to the creating of two long term projects and one collab, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
+<h4 align="center">Due to the creating of two long term projects and one collab, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4><br>
+
+<p align="center">
+<img src="https://t4.ftcdn.net/jpg/02/01/81/29/360_F_201812901_RTFlTpQP2DYMuTcsfjmP0yIWMrwsKY1c.jpg"></p>
   
 <br>
 
