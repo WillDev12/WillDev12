@@ -1,7 +1,7 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
   
 <h3 align="center">⚠️ Discord Readme Banners removed ⚠️</h3>
-<h4 align="center">Due to the fact that an older copyrighted software unowned by me is licensed, Discord Readme Banners is currently down.<br>You can view it <a href="https://github.com/Zyplos/discord-readme-badge/tree/dev">here</a></h4>
+<h4 align="center">Due to the fact that an older copyrighted software unowned by me already exists, Discord Readme Banners is currently down.<br>You can view it <a href="https://github.com/Zyplos/discord-readme-badge/tree/dev">here</a></h4>
 
 <br>
 
