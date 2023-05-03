@@ -1,7 +1,7 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
   
 <h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
-<h4 align="center">Due to the creating of multiple projects, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
+<h4 align="center">Due to the creating of multiple projects (new api in the making!), common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
 
 <br>
 
