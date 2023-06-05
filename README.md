@@ -1,6 +1,4 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
-
-<h3 align="center">New API "Reddit-MD" out on vercel! <a href="https://github.com/WillDev12/reddit-markdown-cards">Check it out</a></h3><br>
   
 <h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
 <h4 align="center">Due to the creating of multiple projects, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
