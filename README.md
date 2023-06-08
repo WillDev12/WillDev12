@@ -1,7 +1,7 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
 
 <a href="https://github.com/WillDev12/MD-Announcements">
-  <img width="100%" src="https://md-announcements.vercel.app/api?type=horizontal&color=green&text=New%20project%20out:%20Click%20to%20view%20NEW%20MD-Announcements%20api!&animate=fadeIn&icon=warning"></img>
+  <img width="100%" src="https://md-announcements.vercel.app/api?type=horizontal&color=green&text=New%20project%20out:%20Click%20to%20view%20NEW%20MD-Announcements%20api!&animate=fadeIn"></img>
 </a>
 
 <br><br>
