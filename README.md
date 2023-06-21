@@ -1,4 +1,8 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
+
+<img src="https://md-announcements.vercel.app/api?type=horizontal&color=green&text=New%20project:%20Check%20out%20rJson%20for%20Visual%20Studio%20on%20NuGet!&animate=fadeIn&icon=star" width="100%"></img>
+
+<br>
   
 <h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
 <h4 align="center">Due to the creating of multiple projects, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
