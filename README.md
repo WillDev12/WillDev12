@@ -5,6 +5,10 @@
 
 <br>
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/C8SdkGH/8-A22446-F-34-E3-47-E1-AE23-790-D9-D69-B14-B.jpg" alt="8-A22446-F-34-E3-47-E1-AE23-790-D9-D69-B14-B" border="0"></a>
+
+<br>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
 </p>
