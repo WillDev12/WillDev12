@@ -1,9 +1,5 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
 
-<br>
-
-<img src="http://md-announcements.vercel.app/api?type=horizontal&theme=red&text=New%20Repo:%20Spoon%20is%20currently%20under%20maintenance.%20%20Expect%20a%20release%20sometime%20soon...%20(Latest%202-3%20days)&background=true" style="width: 100%;"></img>
-  
 <h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
 <h4 align="center">Due to the creating of multiple projects, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
 
