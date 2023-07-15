@@ -3,8 +3,6 @@
 <h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
 <h4 align="center">Due to the creating of multiple projects, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
 
-<img src="http://md-announcements.vercel.app/api?type=horizontal&theme=green&text=A%20huge%20thank%20you%20for%20all%20204%20of%20my%20followers.%20A%20new%20landmark%20%20has%20been%20reached%20thanks%20to%20all%20of%20the%20support%20I%20have%20been%20getting.%20%20I%20sincerely%20hope%20anybody%20reading%20this%20has%20a%20wonderful%20day%20and%20good%20luck%20to%20come.%20%20Thanks.&background=true" style="width: 100%;"></img>
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
 </p>
