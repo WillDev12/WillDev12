@@ -1,5 +1,9 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
 
+<a href="https://github.com/WillDev12/csharp-desktop-pets">
+  <img src="http://md-announcements.vercel.app/api?type=horizontal&theme=green&text=New%20Repo:%20CSharp%20desktop%20pets%20is%20published!%20Click%20here%20to%20check%20it%20out.&background=true" style="width: 100%;"></img>
+</a>
+
 <h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
 <h4 align="center">Due to the creating of multiple projects, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
 
