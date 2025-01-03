@@ -1,15 +1,14 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
 
 <h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
-<h4 align="center">Due to the creating of multiple projects, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
+<h4 align="center">Let's cook up some good stuff in VSCode to start 2025!</h4>
 
 <br>
 
 <p align="center">
+  <img src="https://profile-counter.glitch.me/WillDev12/count.svg"></img>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
 </p>
-
-<p align="center"><img src="https://count.getloli.com/get/@:WillDev12?theme=rule34" width="400"></p><br>
 
 <p float="left" align="center">
 
