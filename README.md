@@ -7,6 +7,9 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/WillDev12/count.svg"></img>
+</p>
+
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
 </p>
 
